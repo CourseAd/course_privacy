@@ -17,10 +17,9 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
 ### Location Information
-Great rides start with an easy and accurate pickup. The tyt Platform collects location information (including GPS and WiFi data) differently depending on your tyt app settings and device permissions as well as whether you are using the platform as a Rider or Driver:
+Great rides start with an easy and accurate pickup. Course Driver collects location information (including GPS and WiFi data).
+We collect your device’s precise location when you open and use the app, including while the app is running in the background when it is in driver mode. We also collect precise location for a limited time after you exit driver mode in order to detect ride incidents, and continue collecting it until a reported or detected incident is no longer active.
 
-Riders: We collect your device’s precise location when you open and use the tyt app, including while the app is running in the background from the time you request a ride until it ends. tyt also tracks the precise location of scooters and e-bikes at all times.
-Drivers: We collect your device’s precise location when you open and use the app, including while the app is running in the background when it is in driver mode. We also collect precise location for a limited time after you exit driver mode in order to detect ride incidents, and continue collecting it until a reported or detected incident is no longer active.
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
